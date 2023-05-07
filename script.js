@@ -1,4 +1,3 @@
-/*global document*/
 
 const etchContainer = document.querySelector("etchContainer");
 
